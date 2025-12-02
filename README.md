@@ -2,7 +2,7 @@
 
 # LegalDoc Insight – AI-Powered Document Review Assistant
 
-Title Building AI course project
+**Building AI course project**
 
 ## Summary
 LegalDoc Insight is an AI-powered tool that automates summarization, categorization, and risk flagging of legal documents to speed up litigation review processes and improve accuracy. It helps legal teams save time and reduce errors in document review.
